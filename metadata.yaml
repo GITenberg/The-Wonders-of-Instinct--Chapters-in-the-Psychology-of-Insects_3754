@@ -1,0 +1,49 @@
+_repo: The-Wonders-of-Instinct--Chapters-in-the-Psychology-of-Insects_3754
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixeira de
+    - Teixeira de Mattos, Alexander Louis
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+  - agent_name: Miall, Bernard
+    alias: Miall, A. Bernard
+    birthdate: 1876
+    gutenberg_agent_id: '1214'
+    url: http://www.gutenberg.org/2009/agents/1214
+creator:
+  author:
+    agent_name: Fabre, Jean-Henri
+    aliases:
+    - Fabre, Henri
+    - Fabre, Jean Henri Casimir
+    - Fabre, J. Henri
+    birthdate: 1823
+    deathdate: 1915
+    gutenberg_agent_id: '735'
+    url: http://www.gutenberg.org/2009/agents/735
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Henri_Fabre
+description: ''
+gutenberg_bookshelf:
+- Biology
+- Animals-Wild-Insects
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects'
+- !lcsh 'Instinct'
+- !lcc 'QL'
+- GITenberg
+title: 'The Wonders of Instinct: Chapters in the Psychology of Insects'
+url: http://www.gutenberg.org/ebooks/3754
