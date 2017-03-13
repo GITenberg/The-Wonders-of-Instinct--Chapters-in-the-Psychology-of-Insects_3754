@@ -1,5 +1,5 @@
 _repo: The-Wonders-of-Instinct--Chapters-in-the-Psychology-of-Insects_3754
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Teixeira de Mattos, Alexander
@@ -16,6 +16,9 @@ contributor:
     birthdate: 1876
     gutenberg_agent_id: '1214'
     url: http://www.gutenberg.org/2009/agents/1214
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fabre, Jean-Henri
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/735
     wikipedia: http://en.wikipedia.org/wiki/Jean_Henri_Fabre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3754#The-Wonders-of-Instinct--Chapters-in-the-Psychology-of-Insects
 gutenberg_bookshelf:
 - Biology
 - Animals-Wild-Insects
